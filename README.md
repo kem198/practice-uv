@@ -35,7 +35,7 @@ cd practice-uv
 # (任意) VS Code で開く
 $ code .
 
-# first commit
+# ファイルが作成されているので first commit する
 $ git status -s
 ?? .gitignore
 ?? .python-version
