@@ -108,6 +108,6 @@ $
 
 ## References
 
-- [terisuke/langgraph: Build resilient language agents as graphs.](https://github.com/terisuke/langgraph)
 - [astral-sh/uv: An extremely fast Python package and project manager, written in Rust.](https://github.com/astral-sh/uv)
+- [langchain-ai/langgraph: Build resilient language agents as graphs.](https://github.com/langchain-ai/langgraph)
 - [Pythonパッケージ管理 \[uv\] 完全入門 - Speaker Deck](https://speakerdeck.com/mickey_kubo/pythonpatukeziguan-li-uv-wan-quan-ru-men)
