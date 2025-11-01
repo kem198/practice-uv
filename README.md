@@ -21,6 +21,15 @@
 
 - Ubuntu on WSL
 
+    ```sh
+    $ lsb_release -a
+    No LSB modules are available.
+    Distributor ID: Ubuntu
+    Description:    Ubuntu 24.04.2 LTS
+    Release:        24.04
+    Codename:       noble
+    ```
+
 ### uv のインストール
 
 ```sh
