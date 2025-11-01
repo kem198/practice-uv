@@ -8,8 +8,8 @@ uv をインストール ～ Hello World までのメモ。
 <!-- omit in toc -->
 ## TOC
 
+- [Runtime](#runtime)
 - [Logs](#logs)
-    - [実行環境](#実行環境)
     - [uv のインストール](#uv-のインストール)
     - [アプリケーションの初期作成](#アプリケーションの初期作成)
     - [仮想環境の作成 / Python のインストール](#仮想環境の作成--python-のインストール)
@@ -19,13 +19,9 @@ uv をインストール ～ Hello World までのメモ。
     - [仮想環境を無効化する](#仮想環境を無効化する)
 - [References](#references)
 
-## Logs
+## Runtime
 
-上から順に実行した。
-
-### 実行環境
-
-- Ubuntu on WSL
+- 実行環境: Ubuntu on WSL
 
     ```sh
     $ lsb_release -a
@@ -35,6 +31,10 @@ uv をインストール ～ Hello World までのメモ。
     Release:        24.04
     Codename:       noble
     ```
+
+## Logs
+
+上から順に実行した。
 
 ### uv のインストール
 
