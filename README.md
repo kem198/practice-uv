@@ -1,6 +1,10 @@
 <!-- omit in toc -->
 # Practice - uv
 
+uv をインストール ～ Hello World までのメモ。
+
++ 仮想環境の有効化 / 無効化、ライブラリインストールなど。
+
 <!-- omit in toc -->
 ## TOC
 
@@ -17,13 +21,11 @@
 
 ## Logs
 
-uv をインストール ～ Hello World ～ パッケージインストール までのメモ。
-
 上から順に実行した。
 
 ### 実行環境
 
-- Ubuntu on WSL
++ Ubuntu on WSL
 
     ```sh
     $ lsb_release -a
@@ -159,6 +161,6 @@ $
 
 ## References
 
-- [astral-sh/uv: An extremely fast Python package and project manager, written in Rust.](https://github.com/astral-sh/uv)
-- [langchain-ai/langgraph: Build resilient language agents as graphs.](https://github.com/langchain-ai/langgraph)
-- [Pythonパッケージ管理 \[uv\] 完全入門 - Speaker Deck](https://speakerdeck.com/mickey_kubo/pythonpatukeziguan-li-uv-wan-quan-ru-men)
++ [astral-sh/uv: An extremely fast Python package and project manager, written in Rust.](https://github.com/astral-sh/uv)
++ [langchain-ai/langgraph: Build resilient language agents as graphs.](https://github.com/langchain-ai/langgraph)
++ [Pythonパッケージ管理 \[uv\] 完全入門 - Speaker Deck](https://speakerdeck.com/mickey_kubo/pythonpatukeziguan-li-uv-wan-quan-ru-men)
