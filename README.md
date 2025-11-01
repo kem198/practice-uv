@@ -4,9 +4,6 @@
 <!-- omit in toc -->
 ## TOC
 
-- [Requirements](#requirements)
-    - [Required](#required)
-    - [Recommended](#recommended)
 - [Logs](#logs)
     - [実行環境](#実行環境)
     - [uv のインストール](#uv-のインストール)
@@ -17,16 +14,6 @@
     - [ライブラリのインストール](#ライブラリのインストール)
     - [仮想環境を無効化する](#仮想環境を無効化する)
 - [References](#references)
-
-## Requirements
-
-### Required
-
-- [](#)
-
-### Recommended
-
-- [uv](https://docs.astral.sh/uv/)
 
 ## Logs
 
