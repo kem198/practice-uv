@@ -1,9 +1,9 @@
 <!-- omit in toc -->
 # Practice - uv
 
-uv をインストール ～ Hello World までのメモ。
+Python のバージョン管理・パッケージ管理ツール [uv](https://docs.astral.sh/uv/) をインストール ～ Hello World するまでのメモ。
 
-プラス、仮想環境の有効化 / 無効化、ライブラリインストールなど。
+加えて、仮想環境の有効化 / 無効化、ライブラリインストールなど。
 
 <!-- omit in toc -->
 ## TOC
